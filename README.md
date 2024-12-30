@@ -1,6 +1,6 @@
 ## Hey.
 
-I like backend systems, compilers, and no-code AI & DX tools. Shipping code [@Zomato](https://github.com/Zomato) right now. 🚀
+I like distributed systems, compilers, databases and no-code AI & DX tools. Shipping code [@Zomato](https://github.com/Zomato) right now. 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/techsavvyash) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://techsavvyash.dev) 
